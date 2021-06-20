@@ -13,14 +13,8 @@ _I work as a full time Android Developer, have managing skills in App developmen
   -   Data Structures and Algorithm's
 
 ## **Languages:**
-![image](https://user-images.githubusercontent.com/42038223/122685917-0ccbaa00-d22c-11eb-9d07-ed829f566214.png)
+![image](https://user-images.githubusercontent.com/42038223/122685932-308ef000-d22c-11eb-92a4-a211a42b3cc7.png)
 
-
-
-
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
 
   
 **Tools and IDE's**
