@@ -5,16 +5,16 @@
 **I work as a full time Android Developer, have managing skills in App development from paper idea into reality. My Android Development journey has started since 2019 and in this total experience I've contributed alot as a open source contributor on GitHub, Stack overflow and Quora etc...**
 
 ## **What I'm Focusing On**
-  - ⚡ Android MVVM with Latest Jetpack.
-  - ⚡ Unit/UI/Integration Test Cases.
-  - ⚡ Kotlin
-  - ⚡ Java
-  - ⚡ Data Structures and Algorithm
+  -  Android MVVM with Latest Jetpack.
+  -  Unit/UI/Integration Test Cases.
+  -  Kotlin
+  -  Java
+  -  Data Structures and Algorithm's
 
 ## **Languages:**
-  [image](https://user-images.githubusercontent.com/42038223/122684423-e8b79b00-d222-11eb-87a6-fc0b6d5a2bd1.png)
-  [image](https://user-images.githubusercontent.com/42038223/122684438-0127b580-d223-11eb-9049-5eddba01613a.png)
-  [image](https://user-images.githubusercontent.com/42038223/122684723-ba3abf80-d224-11eb-9936-560cc51fda34.png)
+  ![image](https://user-images.githubusercontent.com/42038223/122684423-e8b79b00-d222-11eb-87a6-fc0b6d5a2bd1.png)
+  ![image](https://user-images.githubusercontent.com/42038223/122684438-0127b580-d223-11eb-9049-5eddba01613a.png)
+  ![image](https://user-images.githubusercontent.com/42038223/122684723-ba3abf80-d224-11eb-9936-560cc51fda34.png)
   
 **Tools and IDE's**
   ![image](https://user-images.githubusercontent.com/42038223/122685172-74332b00-d227-11eb-8b63-0e95d4093d72.png)
