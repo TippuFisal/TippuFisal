@@ -13,9 +13,9 @@ _I work as a full time Android Developer, have managing skills in App developmen
   -   Data Structures and Algorithm's
 
 ## **Languages:**
-  -   ![image](https://user-images.githubusercontent.com/42038223/122685968-5c11da80-d22c-11eb-9119-55805124ddc0.png) 
+![image](https://user-images.githubusercontent.com/42038223/122685968-5c11da80-d22c-11eb-9119-55805124ddc0.png) ![image](https://user-images.githubusercontent.com/42038223/122686377-41406580-d22e-11eb-8a8c-565b65ef9b97.png)
 
-  -   **Java**
+  
   
 ## **Tools and IDE's**
  
