@@ -3,9 +3,7 @@
 <!--
 **TippuFisal/TippuFisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-I work as a full time Android Developer, have managing skills in App development from paper idea into reality. My Android Development journey has started since 2019 and in this total experience I've contributed alot as a open source contributor on GitHub, Stack overflow and Quora etc...
+**I work as a full time Android Developer, have managing skills in App development from paper idea into reality. My Android Development journey has started since 2019 and in this total experience I've contributed alot as a open source contributor on GitHub, Stack overflow and Quora etc...**
 
 ## **What I'm Focusing On**
   - ⚡ Android MVVM with Latest Jetpack.
