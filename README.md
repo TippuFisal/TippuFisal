@@ -19,6 +19,10 @@ _I work as a full time Android Developer, have managing skills in App developmen
 
 
   
+## **Reach me **
+
+https://camo.githubusercontent.com/a27bd7143054c8fd3356598793b6077a8742eb023f751f5f1884fa35e88dccb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e
+
   
 <!-- ## **Tools and IDE's** -->
  
