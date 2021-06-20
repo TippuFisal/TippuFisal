@@ -1,7 +1,6 @@
 ### Hi there 👋
 # **I'm Tippu Fisal Sheriff**
-<!--
-**TippuFisal/TippuFisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 **I work as a full time Android Developer, have managing skills in App development from paper idea into reality. My Android Development journey has started since 2019 and in this total experience I've contributed alot as a open source contributor on GitHub, Stack overflow and Quora etc...**
 
@@ -23,5 +22,3 @@
   ![image](https://user-images.githubusercontent.com/42038223/122685236-bfe5d480-d227-11eb-8509-6950b0097c48.png)
   ![image](https://user-images.githubusercontent.com/42038223/122685245-d9871c00-d227-11eb-9fd4-2d50598340ba.png)
   ![image](https://user-images.githubusercontent.com/42038223/122685268-fcb1cb80-d227-11eb-8f34-6cb605fae1bf.png)
-
--->
