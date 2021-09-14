@@ -37,7 +37,7 @@ You can find me in all these places:
 
 #### **Visitor count**
 
-<p align="center"> 
+<p align="start"> 
   <img src="https://profile-counter.glitch.me/TippuFisal/count.svg" />
 </p>
   
