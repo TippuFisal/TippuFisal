@@ -20,7 +20,12 @@ I work as a full-time Android Developer, have managing skills in App development
   -   Postman -->
 
 
+#### Social Media
+You can find me in all these places:
+
 [![Code Palace](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tippu-fisal-sheriff-17b159120/)
+
+[![Code Palace](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tippu_fisal/?hl=en)
 
 
 
