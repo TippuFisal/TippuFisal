@@ -4,12 +4,6 @@
 
 I work as a full-time Android Developer, have managing skills in App development from paper ideas into reality. My Android Development journey has started in 2019 and in this total experience, I've contributed a lot as an open-source contributor on GitHub, Stack Overflow and Quora, etc...
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TippuFisal/count.svg" />
-</p>
-
-
 ## **What I'm Focusing On**
   -   Android MVVM with Latest Jetpack.
   -   Unit/UI/Integration Test Cases.
@@ -33,7 +27,7 @@ I work as a full-time Android Developer, have managing skills in App development
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 
-#### Social Media
+#### **Social Media**
 You can find me in all these places:
 
 [![Code Palace](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tippu-fisal-sheriff-17b159120/)
@@ -41,7 +35,10 @@ You can find me in all these places:
 [![Code Palace](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TippuFisal)
 [![Code Palace](https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Tippu-Fisal-Sheriff)
 
-
+<p align="center"> 
+  **Visitor count**<br>
+  <img src="https://profile-counter.glitch.me/TippuFisal/count.svg" />
+</p>
   
 <!-- ## **Tools and IDE's** -->
  
