@@ -32,8 +32,8 @@ You can find me in all these places:
 
 [![Code Palace](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tippu-fisal-sheriff-17b159120/)
 [![Code Palace](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tippu_fisal/?hl=en)
-
-
+[![Code Palace](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TippuFisal)
+[![Code Palace](https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Tippu-Fisal-Sheriff)
 
 
   
