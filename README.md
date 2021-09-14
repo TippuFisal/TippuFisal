@@ -20,9 +20,8 @@ I work as a full-time Android Developer, have managing skills in App development
   -   Postman -->
 
 
-<!--    ![image](https://user-images.githubusercontent.com/42038223/122685968-5c11da80-d22c-11eb-9119-55805124ddc0.png)
+[![Code Palace](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tippu-fisal-sheriff-17b159120/)
 
-   ![image](https://user-images.githubusercontent.com/42038223/122686405-70ef6d80-d22e-11eb-832e-6bfe062a636f.png) -->
 
 
 
