@@ -1,5 +1,5 @@
 ### Hi there 👋
-# **I'm Tippu Fisal Sheriff**
+# **I'm Tippu Fisal Sheriff** <img src="https://komarev.com/ghpvc/?username=TippuFisal" alt="https://github.com/TippuFisal" />
 
 
 I work as a full-time Android Developer, have managing skills in App development from paper ideas into reality. My Android Development journey has started in 2019 and in this total experience, I've contributed a lot as an open-source contributor on GitHub, Stack Overflow and Quora, etc...
