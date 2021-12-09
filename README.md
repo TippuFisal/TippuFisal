@@ -1,5 +1,8 @@
 ### Hi there 👋
-# **I'm Tippu Fisal Sheriff** <img src="https://komarev.com/ghpvc/?username=TippuFisal" alt="https://github.com/TippuFisal" />
+# **I'm Tippu Fisal Sheriff** 
+
+ <br> <br>
+   <img src="https://komarev.com/ghpvc/?username=TippuFisal" alt="https://github.com/TippuFisal" />
 
 
 I work as a full-time Android Developer, have managing skills in App development from paper ideas into reality. My Android Development journey has started in 2019 and in this total experience, I've contributed a lot as an open-source contributor on GitHub, Stack Overflow and Quora, etc...
@@ -49,11 +52,11 @@ You can find me in all these places:
 [![Code Palace](https://img.shields.io/badge/Stackoverflow-ef8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11690526/tippu-fisal-sheriff)
 [![Code Palace](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TippuFisalSheriff)
 
-#### **Visitor count**
+<!-- #### **Visitor count**
 
 <p align="start"> 
   <img src="https://profile-counter.glitch.me/TippuFisal/count.svg" />
 </p>
   
-<!-- ## **Tools and IDE's** -->
+<!-- ## **Tools and IDE's** --> -->
  
