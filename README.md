@@ -48,6 +48,7 @@ You can find me in all these places:
 [![Code Palace](https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Tippu-Fisal-Sheriff)
 [![Code Palace](https://img.shields.io/badge/Stackoverflow-ef8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11690526/tippu-fisal-sheriff)
 [![Code Palace](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TippuFisalSheriff)
+[![Code Palace](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fisal17.tf@gmail.com)
 
 <!-- #### **Visitor count**
 
